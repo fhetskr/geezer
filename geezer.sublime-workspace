@@ -1,0 +1,1827 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gwrap",
+				"gwrap_object"
+			],
+			[
+				"exe",
+				"exec_type"
+			],
+			[
+				"con",
+				"context_stack"
+			],
+			[
+				"una",
+				"unary_postfix"
+			],
+			[
+				"unar",
+				"unary_prefix"
+			],
+			[
+				"non",
+				"nondefining_statement"
+			],
+			[
+				"function",
+				"function_definition"
+			],
+			[
+				"class",
+				"class_statement"
+			],
+			[
+				"state",
+				"statement_list"
+			],
+			[
+				"GZR_",
+				"GZR_REF"
+			],
+			[
+				"funciton",
+				"function_dec"
+			],
+			[
+				"Bool",
+				"BoolFunction"
+			],
+			[
+				"Int",
+				"IntFunction"
+			],
+			[
+				"param",
+				"param_list"
+			],
+			[
+				"new",
+				"new_var"
+			],
+			[
+				"free",
+				"free_scope"
+			],
+			[
+				"print",
+				"printSets"
+			],
+			[
+				"cur",
+				"cur_sym"
+			],
+			[
+				"find",
+				"findFollows"
+			],
+			[
+				"sets",
+				"sets_changed"
+			],
+			[
+				"sym",
+				"symbol_head"
+			],
+			[
+				"all",
+				"allocSym"
+			],
+			[
+				"allo",
+				"allocRule"
+			],
+			[
+				"alloc",
+				"allocProd"
+			],
+			[
+				"re",
+				"receiver_socket"
+			],
+			[
+				"ne",
+				"next_seq_num"
+			],
+			[
+				"time",
+				"timeout_timer"
+			],
+			[
+				"packe",
+				"packet_buffer"
+			],
+			[
+				"pack",
+				"packet_buffer"
+			],
+			[
+				"log",
+				"log_window"
+			],
+			[
+				"check",
+				"checksum_in_packet"
+			],
+			[
+				"che",
+				"checksum_calculated"
+			],
+			[
+				"pac",
+				"pac_type"
+			],
+			[
+				"o",
+				"output_path"
+			],
+			[
+				"chec",
+				"checksum_received"
+			],
+			[
+				"window",
+				"window_base"
+			],
+			[
+				"pa",
+				"packet_buffer"
+			],
+			[
+				"rece",
+				"receiver_socket"
+			],
+			[
+				"rec",
+				"receiver_port"
+			],
+			[
+				"server",
+				"server_port"
+			],
+			[
+				"packet",
+				"packet_size"
+			],
+			[
+				"batch",
+				"batch_labels"
+			],
+			[
+				"word",
+				"word_embed"
+			],
+			[
+				"wo",
+				"word_embed"
+			],
+			[
+				"bath",
+				"batch_inputs"
+			],
+			[
+				"bat",
+				"batch_inputs"
+			],
+			[
+				"byte",
+				"byte_sequence"
+			],
+			[
+				"ans",
+				"ans_qname"
+			],
+			[
+				"feat",
+				"feat_extractor"
+			],
+			[
+				"feature",
+				"feature_vec"
+			],
+			[
+				"fea",
+				"feature_vec"
+			],
+			[
+				"best",
+				"best_weights"
+			],
+			[
+				"pop",
+				"popRarity"
+			],
+			[
+				"get",
+				"getType"
+			],
+			[
+				"lake",
+				"lake_size"
+			],
+			[
+				"set",
+				"setType"
+			],
+			[
+				"SDL",
+				"SDL_Point"
+			],
+			[
+				"SDL_KE",
+				"SDL_KEYDOWN"
+			],
+			[
+				"ren",
+				"renderText"
+			],
+			[
+				"SDL_Set",
+				"SDL_SetRenderTarget"
+			],
+			[
+				"rende",
+				"renderedContents"
+			],
+			[
+				"rend",
+				"renderedContents"
+			],
+			[
+				"render",
+				"renderedContents"
+			],
+			[
+				"tetx",
+				"textureText"
+			],
+			[
+				"rendere",
+				"renderedContents"
+			],
+			[
+				"SCREE",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"SC",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"load",
+				"loadFromRenderedText"
+			],
+			[
+				"keys",
+				"keysHeld"
+			],
+			[
+				"num",
+				"num_followers"
+			],
+			[
+				"big",
+				"big_uniform_arrays"
+			],
+			[
+				"sma",
+				"small_uniform_arrays"
+			],
+			[
+				"gen",
+				"gen_increasing"
+			],
+			[
+				"small",
+				"small_increasing_arrays"
+			],
+			[
+				"og",
+				"og_file"
+			],
+			[
+				"page",
+				"page_nums"
+			],
+			[
+				"upp",
+				"upper_bound"
+			],
+			[
+				"low",
+				"lower_bound"
+			],
+			[
+				"old",
+				"old_upper"
+			],
+			[
+				"ang",
+				"ang_vel"
+			],
+			[
+				"overlap",
+				"overlapStart"
+			],
+			[
+				"overl",
+				"overlapStart"
+			],
+			[
+				"MAX",
+				"MAX_ROOMS"
+			],
+			[
+				"textu",
+				"textureID"
+			],
+			[
+				"TOTAL",
+				"TOTAL_PLAYER_SPRITES"
+			],
+			[
+				"TOT",
+				"TOTAL_PLAYER_SPRITES"
+			],
+			[
+				"se",
+				"setColor"
+			],
+			[
+				"SCreen",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"PLA",
+				"PLAYER_HEIGHT"
+			],
+			[
+				"tile",
+				"tilemap"
+			],
+			[
+				"text",
+				"textSurface"
+			],
+			[
+				"SCREEN",
+				"SCREEN_WIDTH"
+			],
+			[
+				"cols",
+				"cols-to-rows"
+			],
+			[
+				"bubb",
+				"bubble-sort"
+			],
+			[
+				"most",
+				"mostInARow"
+			],
+			[
+				"Most",
+				"mostInARow"
+			],
+			[
+				"mo",
+				"most_occurrences"
+			],
+			[
+				"las",
+				"last_num_seen"
+			],
+			[
+				"hopped",
+				"hopped_square"
+			],
+			[
+				"initial",
+				"initial_state"
+			],
+			[
+				"piece",
+				"piece_values"
+			],
+			[
+				"heu",
+				"heuristic_fun"
+			],
+			[
+				"vector",
+				"vector_to_transpose"
+			],
+			[
+				"in",
+				"include_fractions"
+			],
+			[
+				"vec",
+				"vector_to_transpose"
+			],
+			[
+				"scalar",
+				"scalar_mult"
+			],
+			[
+				"ran",
+				"range_to_check"
+			],
+			[
+				"hopp",
+				"hopped_square"
+			],
+			[
+				"ho",
+				"hopped_piece"
+			],
+			[
+				"pi",
+				"piece"
+			],
+			[
+				"valid",
+				"valid_moves"
+			],
+			[
+				"_moe",
+				"_move_legal"
+			],
+			[
+				"ngr",
+				"ngram1_counts"
+			],
+			[
+				"shared",
+				"shared_ngram_count"
+			],
+			[
+				"ngrams",
+				"ngrams1"
+			],
+			[
+				"ngram",
+				"ngram_counts"
+			],
+			[
+				"connect",
+				"connectfour"
+			],
+			[
+				"possib",
+				"possible-lines"
+			],
+			[
+				"pos",
+				"possible-lines"
+			],
+			[
+				"curr",
+				"curr-line-len"
+			],
+			[
+				"cu",
+				"current-color"
+			],
+			[
+				"max-",
+				"max-depth"
+			],
+			[
+				"is",
+				"is-maxs-turn-p"
+			],
+			[
+				"legal",
+				"legal-values"
+			],
+			[
+				"const",
+				"constraints"
+			],
+			[
+				"enquein",
+				"enqueueing-function"
+			],
+			[
+				"foreach",
+				"foreach-valid-move"
+			],
+			[
+				"maximum",
+				"maximum-iterations"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gzr_symtable.h",
+			"settings":
+			{
+				"buffer_size": 137,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": "struct"
+					},
+					"BgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					2,
+					1,
+					"insert",
+					{
+						"characters": " gzr_"
+					},
+					"BQAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAALAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "symtable"
+					},
+					"CAAAAAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAATAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					5,
+					"left_delete",
+					null,
+					"BQAAABIAAAAAAAAAEgAAAAAAAAABAAAAZREAAAAAAAAAEQAAAAAAAAABAAAAbBAAAAAAAAAAEAAAAAAAAAABAAAAYg8AAAAAAAAADwAAAAAAAAABAAAAYQ4AAAAAAAAADgAAAAAAAAABAAAAdA",
+					"AQAAAAAAAAABAAAAEwAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "bol_table"
+					},
+					"CQAAAA4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAABcAAAAAAAAAGAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAABgAAAAAAAAAGgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"AwAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAaAAAAAAAAABsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "glist"
+					},
+					"BQAAABsAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAAAAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGwAAAAAAAAAbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAACAAAAAAAAAAIQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "*"
+					},
+					"AQAAACEAAAAAAAAAIgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "variables"
+					},
+					"CQAAACIAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAnAAAAAAAAAAAAAAAnAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "'"
+					},
+					"AQAAACsAAAAAAAAALAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKwAAAAAAAAArAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"left_delete",
+					null,
+					"AQAAACsAAAAAAAAAKwAAAAAAAAABAAAAJw",
+					"AQAAAAAAAAABAAAALAAAAAAAAAAsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAACsAAAAAAAAALAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKwAAAAAAAAArAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "4"
+					},
+					"AQAAAC4AAAAAAAAALwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALgAAAAAAAAAuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"left_delete",
+					null,
+					"AQAAAC4AAAAAAAAALgAAAAAAAAABAAAANA",
+					"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALgAAAAAAAAAuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "void"
+					},
+					"BAAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADMAAAAAAAAAAAAAADMAAAAAAAAANAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": " destrp"
+					},
+					"BwAAADQAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADcAAAAAAAAAAAAAADcAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA5AAAAAAAAAAAAAAA5AAAAAAAAADoAAAAAAAAAAAAAADoAAAAAAAAAOwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANAAAAAAAAAA0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"left_delete",
+					null,
+					"AQAAADoAAAAAAAAAOgAAAAAAAAABAAAAcA",
+					"AQAAAAAAAAABAAAAOwAAAAAAAAA7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "oy_"
+					},
+					"AwAAADoAAAAAAAAAOwAAAAAAAAAAAAAAOwAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAAD0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOgAAAAAAAAA6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "var"
+					},
+					"AwAAAD0AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAEAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAEAAAAAAAAAAQgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "char"
+					},
+					"BAAAAEEAAAAAAAAAQgAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAABDAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAARQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": " *id"
+					},
+					"BAAAAEUAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAABHAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAASQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARQAAAAAAAABFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAEoAAAAAAAAASwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASgAAAAAAAABKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": "\nvoid"
+					},
+					"BQAAAEsAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABNAAAAAAAAAAAAAABNAAAAAAAAAE4AAAAAAAAAAAAAAE4AAAAAAAAATwAAAAAAAAAAAAAATwAAAAAAAABQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASwAAAAAAAABLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFAAAAAAAAAAUQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": "new_var"
+					},
+					"BwAAAFEAAAAAAAAAUgAAAAAAAAAAAAAAUgAAAAAAAABTAAAAAAAAAAAAAABTAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAVQAAAAAAAAAAAAAAVQAAAAAAAABWAAAAAAAAAAAAAABWAAAAAAAAAFcAAAAAAAAAAAAAAFcAAAAAAAAAWAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUQAAAAAAAABRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAFgAAAAAAAAAWgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWAAAAAAAAABYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": "h"
+					},
+					"AQAAAFkAAAAAAAAAWgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWQAAAAAAAABZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFkAAAAAAAAAWQAAAAAAAAABAAAAaA",
+					"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "char"
+					},
+					"BAAAAFkAAAAAAAAAWgAAAAAAAAAAAAAAWgAAAAAAAABbAAAAAAAAAAAAAABbAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAXQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWQAAAAAAAABZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": " *name"
+					},
+					"BgAAAF0AAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABfAAAAAAAAAAAAAABfAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAABiAAAAAAAAAGMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXQAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAGMAAAAAAAAAZAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYwAAAAAAAABjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAGQAAAAAAAAAZQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZAAAAAAAAABkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": "gvalue"
+					},
+					"BgAAAGUAAAAAAAAAZgAAAAAAAAAAAAAAZgAAAAAAAABnAAAAAAAAAAAAAABnAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAaQAAAAAAAAAAAAAAaQAAAAAAAABqAAAAAAAAAAAAAABqAAAAAAAAAGsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZQAAAAAAAABlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": " *val"
+					},
+					"BQAAAGsAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABtAAAAAAAAAAAAAABtAAAAAAAAAG4AAAAAAAAAAAAAAG4AAAAAAAAAbwAAAAAAAAAAAAAAbwAAAAAAAABwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAawAAAAAAAABrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAHEAAAAAAAAAcgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcQAAAAAAAABxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": "\nfin"
+					},
+					"BAAAAHIAAAAAAAAAcwAAAAAAAAAAAAAAcwAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHUAAAAAAAAAAAAAAHUAAAAAAAAAdgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcgAAAAAAAAByAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": "d_"
+					},
+					"AgAAAHYAAAAAAAAAdwAAAAAAAAAAAAAAdwAAAAAAAAB4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdgAAAAAAAAB2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					5,
+					"left_delete",
+					null,
+					"BQAAAHcAAAAAAAAAdwAAAAAAAAABAAAAX3YAAAAAAAAAdgAAAAAAAAABAAAAZHUAAAAAAAAAdQAAAAAAAAABAAAAbnQAAAAAAAAAdAAAAAAAAAABAAAAaXMAAAAAAAAAcwAAAAAAAAABAAAAZg",
+					"AQAAAAAAAAABAAAAeAAAAAAAAAB4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": "void"
+					},
+					"BAAAAHMAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB1AAAAAAAAAAAAAAB1AAAAAAAAAHYAAAAAAAAAAAAAAHYAAAAAAAAAdwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcwAAAAAAAABzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": " find_va"
+					},
+					"CAAAAHcAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB5AAAAAAAAAAAAAAB5AAAAAAAAAHoAAAAAAAAAAAAAAHoAAAAAAAAAewAAAAAAAAAAAAAAewAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAH0AAAAAAAAAAAAAAH0AAAAAAAAAfgAAAAAAAAAAAAAAfgAAAAAAAAB/AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdwAAAAAAAAB3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": "r"
+					},
+					"AQAAAH8AAAAAAAAAgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfwAAAAAAAAB/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAIAAAAAAAAAAggAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": "char"
+					},
+					"BAAAAIEAAAAAAAAAggAAAAAAAAAAAAAAggAAAAAAAACDAAAAAAAAAAAAAACDAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAhQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgQAAAAAAAACBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": " *n"
+					},
+					"AwAAAIUAAAAAAAAAhgAAAAAAAAAAAAAAhgAAAAAAAACHAAAAAAAAAAAAAACHAAAAAAAAAIgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIcAAAAAAAAAhwAAAAAAAAABAAAAbg",
+					"AQAAAAAAAAABAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"insert",
+					{
+						"characters": "a"
+					},
+					"AQAAAIcAAAAAAAAAiAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhwAAAAAAAACHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIcAAAAAAAAAhwAAAAAAAAABAAAAYQ",
+					"AQAAAAAAAAABAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": "name"
+					},
+					"BAAAAIcAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACJAAAAAAAAAAAAAACJAAAAAAAAAIoAAAAAAAAAAAAAAIoAAAAAAAAAiwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhwAAAAAAAACHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAIwAAAAAAAAAjQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjAAAAAAAAACMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAIsAAAAAAAAAjAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiwAAAAAAAACLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": " enum"
+					},
+					"BQAAAIwAAAAAAAAAjQAAAAAAAAAAAAAAjQAAAAAAAACOAAAAAAAAAAAAAACOAAAAAAAAAI8AAAAAAAAAAAAAAI8AAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACRAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjAAAAAAAAACMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					1,
+					"insert",
+					{
+						"characters": " gzr_ty"
+					},
+					"BwAAAJEAAAAAAAAAkgAAAAAAAAAAAAAAkgAAAAAAAACTAAAAAAAAAAAAAACTAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAlQAAAAAAAAAAAAAAlQAAAAAAAACWAAAAAAAAAAAAAACWAAAAAAAAAJcAAAAAAAAAAAAAAJcAAAAAAAAAmAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkQAAAAAAAACRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": "pe"
+					},
+					"AgAAAJgAAAAAAAAAmQAAAAAAAAAAAAAAmQAAAAAAAACaAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmAAAAAAAAACYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": " type;"
+					},
+					"BgAAAJoAAAAAAAAAmwAAAAAAAAAAAAAAmwAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAJ0AAAAAAAAAAAAAAJ0AAAAAAAAAngAAAAAAAAAAAAAAngAAAAAAAACfAAAAAAAAAAAAAACfAAAAAAAAAKAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmgAAAAAAAACaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJ8AAAAAAAAAnwAAAAAAAAABAAAAOw",
+					"AQAAAAAAAAABAAAAoAAAAAAAAACgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					20,
+					"left_delete",
+					null,
+					"FAAAAJ4AAAAAAAAAngAAAAAAAAABAAAAZZ0AAAAAAAAAnQAAAAAAAAABAAAAcJwAAAAAAAAAnAAAAAAAAAABAAAAeZsAAAAAAAAAmwAAAAAAAAABAAAAdJoAAAAAAAAAmgAAAAAAAAABAAAAIJkAAAAAAAAAmQAAAAAAAAABAAAAZZgAAAAAAAAAmAAAAAAAAAABAAAAcJcAAAAAAAAAlwAAAAAAAAABAAAAeZYAAAAAAAAAlgAAAAAAAAABAAAAdJUAAAAAAAAAlQAAAAAAAAABAAAAX5QAAAAAAAAAlAAAAAAAAAABAAAAcpMAAAAAAAAAkwAAAAAAAAABAAAAepIAAAAAAAAAkgAAAAAAAAABAAAAZ5EAAAAAAAAAkQAAAAAAAAABAAAAIJAAAAAAAAAAkAAAAAAAAAABAAAAbY8AAAAAAAAAjwAAAAAAAAABAAAAdY4AAAAAAAAAjgAAAAAAAAABAAAAbo0AAAAAAAAAjQAAAAAAAAABAAAAZYwAAAAAAAAAjAAAAAAAAAABAAAAIIsAAAAAAAAAiwAAAAAAAAABAAAALA",
+					"AQAAAAAAAAABAAAAnwAAAAAAAACfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					4,
+					"left_delete",
+					null,
+					"BAAAAIoAAAAAAAAAigAAAAAAAAABAAAAZYkAAAAAAAAAiQAAAAAAAAABAAAAbYgAAAAAAAAAiAAAAAAAAAABAAAAYYcAAAAAAAAAhwAAAAAAAAABAAAAbg",
+					"AQAAAAAAAAABAAAAiwAAAAAAAACLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"insert",
+					{
+						"characters": "id"
+					},
+					"AgAAAIcAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACJAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhwAAAAAAAACHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					75,
+					4,
+					"left_delete",
+					null,
+					"BAAAAGIAAAAAAAAAYgAAAAAAAAABAAAAZWEAAAAAAAAAYQAAAAAAAAABAAAAbWAAAAAAAAAAYAAAAAAAAAABAAAAYV8AAAAAAAAAXwAAAAAAAAABAAAAbg",
+					"AQAAAAAAAAABAAAAYwAAAAAAAABjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					76,
+					1,
+					"insert",
+					{
+						"characters": "id"
+					},
+					"AgAAAF8AAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABhAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXwAAAAAAAABfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					83,
+					1,
+					"cut",
+					null,
+					"AQAAADAAAAAAAAAAMAAAAAAAAAAbAAAAdm9pZCBkZXN0cm95X3ZhcihjaGFyICppZCk7",
+					"AQAAAAAAAAABAAAASwAAAAAAAAAwAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					85,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAG4AAAAAAAAAbwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbgAAAAAAAABuAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					86,
+					1,
+					"paste",
+					null,
+					"AQAAAG8AAAAAAAAAigAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbwAAAAAAAABvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					88,
+					1,
+					"left_delete",
+					null,
+					"AQAAAC8AAAAAAAAALwAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAA4GtA"
+				]
+			]
+		},
+		{
+			"file": "geezer.y",
+			"settings":
+			{
+				"buffer_size": 7397,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/electron.sublime-build",
+					""
+				],
+				[
+					"Packages/User/gsgprototype.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/electron.sublime-build",
+					""
+				],
+				[
+					"Packages/User/gsgprototype.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/electron.sublime-build",
+					""
+				],
+				[
+					"Packages/User/gsgprototype.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/gsgprototype.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install packagecontrol",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Peter/Desktop/personal code/geezer"
+	],
+	"file_history":
+	[
+		"/C/Users/Peter/Desktop/CS/440/p3/mython.y",
+		"/C/Users/Peter/Desktop/CS/440/p3/mython.l",
+		"/C/Users/Peter/Desktop/personal code/geezer/Makefile",
+		"/C/Users/Peter/Desktop/personal code/geezer/geezer.y",
+		"/C/Users/Peter/Desktop/personal code/geezer/geezer.l",
+		"/C/Users/Peter/Desktop/personal code/geezer/todo",
+		"/C/Users/Peter/Desktop/personal code/geezer/gzr_ast.c",
+		"/C/Users/Peter/Desktop/personal code/geezer/gzr_ast.h",
+		"/C/Users/Peter/Desktop/personal code/geezer/gzr_list.h",
+		"/C/Users/Peter/Desktop/personal code/geezer/gzr_variable.h",
+		"/C/Users/Peter/Desktop/personal code/geezer/gzr_value.c",
+		"/C/Users/Peter/Desktop/personal code/geezer/gzr_value.h",
+		"/C/Users/Peter/Desktop/personal code/geezer/gzr_variable.c",
+		"/C/Users/Peter/Desktop/personal code/geezer/gzr_object.h",
+		"/C/Users/Peter/Desktop/personal code/geezer/ref_count.h",
+		"/C/Users/Peter/Desktop/personal code/geezer/gzr_type.h",
+		"/C/Users/Peter/Desktop/CS/440/p3/mython.h",
+		"/C/Users/Peter/AppData/Local/Temp/Rar$DIa18220.37320/mython.y",
+		"/C/Users/Peter/Desktop/CS/440/p2/lexer.l",
+		"/C/Users/Peter/Desktop/CS/440/p3/Code/array1.my",
+		"/C/Users/Peter/Desktop/CS/440/p3/Code/f2.my",
+		"/C/Users/Peter/Desktop/CS/440/p3/Code/f4.my",
+		"/C/Users/Peter/Desktop/CS/440/q4.l",
+		"/C/Users/Peter/Desktop/CS/440/p1.l",
+		"/C/Users/Peter/Desktop/CS/440/p2/test.sh",
+		"/C/Users/Peter/Desktop/CS/440/p2/tests/test1",
+		"/C/Users/Peter/Desktop/CS/440/p2/lexer_safe.l",
+		"/C/Users/Peter/Desktop/CS/440/p2/parse_tree.l",
+		"/C/Users/Peter/Desktop/CS/440/p2/tests/error5",
+		"/C/Users/Peter/Desktop/CS/440/p2/tests/error4",
+		"/C/Users/Peter/Desktop/CS/440/p2/tests/error1",
+		"/C/Users/Peter/Desktop/CS/440/p2/tests/test2",
+		"/C/Users/Peter/Desktop/CS/440/p2/make",
+		"/C/Users/Peter/Desktop/CS/440/p2/grammar.y",
+		"/C/Users/Peter/Desktop/personal code/New folder/test.c",
+		"/C/Users/Peter/Desktop/personal code/cur.py",
+		"/C/Users/Peter/Desktop/CS/440/custom_test.html",
+		"/C/Users/Peter/Desktop/CS/440/output.txt",
+		"/C/Users/Peter/Desktop/CS/440/tests/t3.html",
+		"/C/Users/Peter/Desktop/CS/425/README.md",
+		"/C/Users/Peter/Desktop/CS/425/mingine/demo/helloworld.cpp",
+		"/C/Users/Peter/Desktop/CS/425/mingine/.gitignore",
+		"/C/Users/Peter/Desktop/CS/Web/servlet/swe432tomcat/src/main/java/servlet/EchoServlet.java",
+		"/C/Users/Peter/Desktop/hanover/index.html",
+		"/C/Users/Peter/Desktop/CS/Web/tomcat/webapps/swe432/WEB-INF/classes/DateServlet.java",
+		"/C/Users/Peter/Desktop/CS/Web/tomcat/webapps/swe432/index.jsp",
+		"/C/Users/Peter/Desktop/CS/211/211_pschmid_P4/Controller.java",
+		"/C/Users/Peter/Desktop/CS/211/211_pschmid_P4/SmartDevice.java",
+		"/C/Users/Peter/Desktop/CS/Web/final/app/index.jsp",
+		"/C/Users/Peter/Desktop/CS/Web/ISPScripts.js",
+		"/C/Users/Peter/Desktop/CS/Web/final.html",
+		"/C/Users/Peter/Desktop/CS/451/JOGL2020/src/JOGL4_4_Fog.java",
+		"/C/Users/Peter/Desktop/CS/Web/tomcat/webapps/ROOT/WEB-INF/classes/DateServlet.java",
+		"/C/Users/Peter/Desktop/CS/Web/servlet/swe432tomcat/src/main/webapp/index.jsp",
+		"/C/Users/Peter/Desktop/CS/Web/tomcat/webapps/ROOT/index.jsp",
+		"/C/Users/Peter/Desktop/CS/Web/servlet/swe432tomcat/src/main/java/servlet/PersistenceFile.java",
+		"/C/Users/Peter/Desktop/CS/Web/servlet/swe432tomcat/src/main/java/launch/Main.java",
+		"/C/Users/Peter/Desktop/CS/Web/servlet/swe432tomcat/src/main/webapp/js/index.js",
+		"/C/Users/Peter/Desktop/CS/Web/tomcat/conf/server.xml",
+		"/C/Users/Peter/Desktop/CS/310/project 1/002-pschmid-p1/Goblin.java",
+		"/C/Users/Peter/Desktop/CS/310/project 2/002-pschmid-p2/Bin.java",
+		"/C/Users/Peter/Desktop/CS/310/project 2/002-pschmid-p2/Plate.java",
+		"/C/Users/Peter/Desktop/CS/310/project 1/002-pschmid-p1/BetterArray.java",
+		"/C/Users/Peter/Desktop/CS/Web/ISP test criteria.html",
+		"/C/Users/Peter/Desktop/CS/425/ld/game.cpp",
+		"/C/Users/Peter/Desktop/CS/425/ld/makefile",
+		"/C/Users/Peter/Desktop/CS/455/PA2-MTP-Spring22/starter_files/unreliable_channel.py",
+		"/C/Users/Peter/Desktop/CS/455/PA2-MTP-Spring22/starter_files/MTPSender.py",
+		"/C/Users/Peter/Desktop/CS/455/PA2-MTP-Spring22/starter_files/MTPReceiver.py",
+		"/C/Users/Peter/Desktop/CS/Web/servlet/swe432tomcat/src/main/java/servlet/characteristic.java",
+		"/C/Users/Peter/Desktop/CS/Web/servlet/swe432tomcat/src/main/java/servlet/ISPecho.java",
+		"/C/Users/Peter/Desktop/CS/455/pdig.py",
+		"/C/Users/Peter/Desktop/CS/451/pschmid_project/pschmid1_4_3_LineCircle.java",
+		"/C/Users/Peter/Desktop/CS/NLP/student-distrib(1)/student-distrib/models.py",
+		"/C/Users/Peter/Desktop/CS/NLP/student-distrib(1)/student-distrib/evaluator.py",
+		"/C/Users/Peter/Desktop/CS/NLP/student-distrib(1)/student-distrib/sentiment_data.py",
+		"/C/Users/Peter/Desktop/CS/NLP/student-distrib(1)/student-distrib/sentiment_classifier.py",
+		"/C/Users/Peter/Desktop/CS/NLP/student-distrib/models.py",
+		"/C/Users/Peter/Desktop/CS/Web/servlet/swe432tomcat/src/main/java/servlet/attributeServlet.java",
+		"/C/Users/Peter/Desktop/CS/NLP/student-distrib/student-distrib/models.py",
+		"/C/Users/Peter/Desktop/CS/NLP/student-distrib/student-distrib/utils.py",
+		"/C/Users/Peter/Desktop/CS/NLP/student-distrib/student-distrib/evaluator.py",
+		"/C/Users/Peter/Desktop/CS/NLP/student-distrib/student-distrib/sentiment_data.py",
+		"/C/Users/Peter/Desktop/CS/NLP/student-distrib/student-distrib/sentiment_classifier.py",
+		"/C/Users/Peter/Desktop/CS/NLP/student-distrib/student-distrib/test-blind.output.txt",
+		"/C/Users/Peter/Desktop/CS/451/JOGL2020/src/JOGL1_0_Frame.java",
+		"/C/Users/Peter/Desktop/Games/FlashGameArchive_2/Flash Game Archive 2.0_Data/user.xml",
+		"/C/Users/Peter/Desktop/CS/NLP/model.txt",
+		"/C/Users/Peter/Desktop/CS/425/asst3.2/game.cpp",
+		"/C/Users/Peter/Desktop/CS/425/final2/Tara-Demos/Demos/Assets/Tileset_Terrain.json",
+		"/C/Users/Peter/Desktop/CS/425/final2/Tara-Demos/Demos/Assets/Tilemap.json",
+		"/C/Users/Peter/Desktop/CS/425/final2/Tara-Demos/Demos/Assets/Tilemap.tmx",
+		"/C/Users/Peter/Desktop/CS/471/asst2-part1/code-reading.txt",
+		"/C/Users/Peter/Desktop/CS/471/p2/unistd.h",
+		"/C/Users/Peter/Desktop/CS/321/pdf-manager/merge_break.py",
+		"/C/Users/Peter/Desktop/CS/463/h7pack/hw8.hs",
+		"/C/Users/Peter/Desktop/CS/463/h7pack/Dance.java",
+		"/C/Users/Peter/Desktop/CS/471/asst2/code-reading.txt",
+		"/C/Users/Peter/Desktop/CS/471/asst2/progress-report.txt",
+		"/C/Users/Peter/Desktop/CS/483/p1.py",
+		"/C/Users/Peter/Desktop/CS/425/final/Tara/Vendor/glad/src/glad.c",
+		"/C/Users/Peter/Desktop/CS/463/h7pack/Leader.java",
+		"/C/Users/Peter/Desktop/CS/463/h7pack/Follower.java",
+		"/C/Users/Peter/Desktop/CS/463/h7pack/Dances.java",
+		"/C/Users/Peter/Desktop/CS/463/h7pack/prepare.sh",
+		"/C/Users/Peter/Desktop/CS/463/h7pack/DanceCardChecker.java",
+		"/C/Users/Peter/Desktop/CS/425/asst3.2/makefile",
+		"/C/Users/Peter/Desktop/CS/463/h7pack/H7Tests.java",
+		"/C/Users/Peter/Desktop/CS/321/pdf-manager/gui-connector.py",
+		"/C/Users/Peter/Desktop/CS/321/pdf-manager/cli.py",
+		"/C/Users/Peter/Desktop/CS/321/pdf-manager/file_types.py",
+		"/C/Users/Peter/Desktop/CS/112/pschmid_216_L7.py",
+		"/C/Users/Peter/Desktop/CS/112/pschmid_216_L4.py",
+		"/C/Users/Peter/Desktop/CS/471/asst1-part2/exercises.txt",
+		"/C/Users/Peter/Desktop/CS/425/39_tiling/39_tiling.cpp",
+		"/C/Users/Peter/Desktop/CS/425/39_tiling/makefile",
+		"/C/Users/Peter/Desktop/CS/425/06_extension_libraries_and_loading_other_image_formats/06_extension_libraries_and_loading_other_image_formats.cpp",
+		"/C/Users/Peter/Desktop/CS/471/progress-report.txt",
+		"/C/Users/Peter/Desktop/CS/471/code-reading.txt",
+		"/C/Users/Peter/Desktop/CS/471/asst1/code_reading.txt",
+		"/C/Users/Peter/Desktop/CS/463/Homework4.hs",
+		"/C/Users/Peter/Desktop/CS/463/test.hs",
+		"/C/Users/Peter/Desktop/CS/463/tester5h.lisp",
+		"/C/Users/Peter/Desktop/CS/463/pschmid_h5.lisp",
+		"/C/Users/Peter/Desktop/CS/321/pdf-manager/pdf-cli.py",
+		"/C/Users/Peter/Desktop/CS/321/pdf-manager/emailer.py",
+		"/C/Users/Peter/Desktop/CS/463/Tester4H.hs",
+		"/C/Users/Peter/Desktop/CS/OS/pschmid-asst0/asst0/code-reading.txt"
+	],
+	"find":
+	{
+		"height": 39.5555555556
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"mismatched",
+			"blend",
+			"todo",
+			"cross",
+			"SDL_PIXELFORMAT",
+			"render",
+			"vector",
+			"ks",
+			"keysHeld",
+			"printf",
+			"keysHeld",
+			"player",
+			"Player",
+			"player",
+			"DUNGEON_SIZE",
+			"floor",
+			"N",
+			"guess",
+			"filetype",
+			"S",
+			"theta",
+			"SDL_Point",
+			"setType",
+			"close",
+			"TOTAL_TILES",
+			"39_",
+			"; ",
+			"\\t;",
+			"\t;",
+			"history",
+			"_get_square",
+			"_move_legal",
+			"move_legal",
+			"piece_type",
+			"heuristic",
+			"bound",
+			"maximum",
+			"history",
+			"selector",
+			"pos_percentages",
+			"'(",
+			"Nøkkelformer",
+			"addit",
+			"print",
+			"esng",
+			"all_words",
+			"camera",
+			"roverCam",
+			"mars_naut",
+			"awake",
+			";",
+			"hpi",
+			"bassi",
+			"voiced",
+			"Saami",
+			"threshhold",
+			"new_counter",
+			"all_matches",
+			".f",
+			"%.f",
+			"c",
+			"morphosyn",
+			"cat=",
+			"cat=\"v\"",
+			"PS13s",
+			"PS",
+			"PS3",
+			"PS13",
+			"v-er",
+			"nom",
+			"pattern",
+			"det",
+			"ponct",
+			"rvvistit",
+			"garvv",
+			"oppfordring",
+			"bli glad",
+			"recording",
+			"elle",
+			"il",
+			"tu",
+			"je"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"threshold",
+			"pite_new_counter",
+			"pite_matches_so_far",
+			"line_num"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gzr_symtable.h",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "geezer.y",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Bison/Bison.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.1111111111
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 175.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "geezer.sublime-project",
+	"replace":
+	{
+		"height": 50.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 156.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
